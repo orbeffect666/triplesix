@@ -25,4 +25,4 @@ namespace Lab3sem
             fs.Close();
         }
     }
-}
+} // the end.
